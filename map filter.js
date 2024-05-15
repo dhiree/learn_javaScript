@@ -1,28 +1,28 @@
 // //1 methord
-// const arr = [2, 3, 4, 5, 6, 8]
-// function dubble(x) {
-//     return x * 2
-// }
-// //2 methord
+const arr = [2, 3, 4, 5, 6, 8]
+function dubble(x) {
+    return x * 2
+}
+//2 methord
 
-// const ok = arr.map(function dubble(x) {
-//     return x * 2
-// })
-// console.log(ok)
+const ok = arr.map(function dubble(x) {
+    return x * 2
+})
+console.log(ok)
 
 
 
 // //third methord
-// const number = [1, 2, 3, 4, 5];
-// const value = number.map(a => a * 2);
-// console.log(value)
+const number = [1, 2, 3, 4, 5];
+const value = number.map(a => a * 2);
+console.log(value)
 
 
 
 // //In this case, sum represents each element of the click array as the map()
-// const click = [90, 76, 992, 89, 990, "hello"]
-// const pull = click.map(sum => sum + 1)
-// console.log(pull)
+const click = [90, 76, 992, 89, 990, "hello"]
+const pull = click.map(sum => sum + 1)
+console.log(pull)
 
 
 
