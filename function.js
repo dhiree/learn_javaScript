@@ -15,3 +15,4 @@ let myfn = () => {
   console.log(a);
 };
 myfn();
+// hello
